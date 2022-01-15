@@ -1,0 +1,1 @@
+Neste projeto vamos desenvolver e publicar um site usando Python com Flask
